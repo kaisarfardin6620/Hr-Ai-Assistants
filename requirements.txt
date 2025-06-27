@@ -1,0 +1,7 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+tenacity>=8.0.0
+sounddevice>=0.4.0
+scipy>=1.7.0
+requests>=2.25.0
+python-dateutil>=2.8.0
